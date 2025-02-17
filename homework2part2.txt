@@ -1,0 +1,37 @@
+Linux commands used in this assignment:
+pwd <- Check what is the current directory 
+mkdir <- Create a directory
+cd <- change the current directory to another director
+ls <- list the files inside a directory
+ls -ltr <- -l(list one file per line), -t(sort by modification time), r(reverse sorting order)
+cd .. <- get out of one directory up
+cat <- print the file to standard output
+pico <- use to open the Pico text editor
+
+
+Git commands used in this assignment:
+git config -- global user.email <- to let git know who we are
+git config -- global user.user <- to let git know who we are
+git clone <- make a clone of the repo in a new directory 
+git status <- to check the status of our local repository
+git add <- adds a file or a group of files to the list of files to be updated in the next commit
+git commit <- commits the changes (only in the files selected by git add)
+git push <- push the committed changes in the local repository to the remote repository.
+
+
+Read the syllabus and answer the following questions
+i. List the rules for collaboration on homework assignments
+Include the names of fellow students  with whom brainstormed as a separate document to be submitted with each assignment.
+If we have not collaborated with anyone, this document should include the following statement:
+    "I did not collaborate with anyone while working on this assignment"
+
+ii. List the rules for consulting external references for homework assignments
+Include the sources as a separate document to be submitted with each assignment.
+If we have not consulted any external sources, this document should include the following statement:
+    "I did not consult any sources other than the textbook while working on this assignment"
+
+iii. What is the penalty for submitting late assignments?
+Late assignments will be accepted; however, there will be a penalty of 10% per day for submitting late assignments.
+
+iv. What is the penalty for missing classes? 
+Student might lose paticipation points. And student would need to find out class activities and make up missed work. 
